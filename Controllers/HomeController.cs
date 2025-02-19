@@ -18,7 +18,17 @@ namespace CipherBowl.Controllers
             return View();
         }
 
+        public IActionResult Products()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
+        {
+            return View();
+        }
+
+        public IActionResult About_Us()
         {
             return View();
         }
