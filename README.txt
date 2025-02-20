@@ -9,3 +9,6 @@ Updated Products.cshtml with the correct content to show the products currently 
 
 20250219 2015
 Saved the changes then tested the updated home page and made sure the "Product" link once clicked would show the list of products available.
+
+20250219 0908
+Ready to push to GitHub for collaboration with group mates.
