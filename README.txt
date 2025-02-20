@@ -12,3 +12,7 @@ Saved the changes then tested the updated home page and made sure the "Product" 
 
 20250219 2115
 Pushed to GitHub for collaboration with group mates.
+
+20250220
+0550 Modified product page
+0555 Pushed to github for collab with teammates
