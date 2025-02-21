@@ -1,6 +1,8 @@
-﻿2025-02-19
-0935 Created a new application called CipherBowl
-0950 Clean and Build solution
+﻿2025-02-19-09-35-00
+Created a new application called CipherBowl
+
+2025-02-19-09-50-00
+Clean and Build solution
      Clean started at 9:50 AM...
 1>------ Clean started: Project: CipherBowl, Configuration: Debug Any CPU ------
 ========== Clean: 1 succeeded, 0 failed, 0 skipped ==========
@@ -12,26 +14,35 @@ Restored C:\Users\nanak\source\repos\CipherBowl\CipherBowl.csproj (in 238 ms).
 ========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
 ========== Build completed at 9:51 AM and took 02.409 seconds ==========
  
-0955 Database issue, couldnt authorise the new registered user
-1005 Updated the database 
-1012 Confirmed the user is in the database
-1030 new user was able to log in
+2025-02-19-09-55-00
+Database issue, couldnt authorise the new registered user
 
-20250219 1950
+2025-02-19-10-05-00
+Updated the database 
+
+2025-02-19-10-12-00
+Confirmed the user is in the database
+
+2025-02-19-10-30-00
+new user was able to log in
+
+2025-02-19-19-50-00
 Removed the default "Privacy" link from the home page as it will not be used
 
-20250219 1955
+2025-02-19-19-55-00
 Added a new item (Razor View - Empty) to be used for the product catalog (Products.cshtml)
 
-20250219 2000
+2025-02-19-20-00-00
 Updated Products.cshtml with the correct content to show the products currently available from the CipherBowl website.
 
-20250219 2015
+2025-02-19-20-15-00
 Saved the changes then tested the updated home page and made sure the "Product" link once clicked would show the list of products available.
 
-20250219 2115
+2025-02-19-21-15-00
 Pushed to GitHub for collaboration with group mates.
 
-20250220
-0550 Modified product page
-0555 Pushed to github for collab with teammates
+2025-02-20-05-50-00
+Modified product page
+
+2025-02-20-05-55-00
+Pushed to github for collab with teammates
