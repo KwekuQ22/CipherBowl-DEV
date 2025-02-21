@@ -1,9 +1,11 @@
 Team Name:  Group Gamma
 
 Team Members:
-    Kankanam Pathirage Malitha Balawardhana
-    Melgar Olaes
-    Kweku Quainoo
+    Kankanam Pathirage Malitha Balawardhana (GitHub Name:  mblawardhana)
+    
+    Melgar Olaes (GitHub Name:  sealom1203)
+    
+    Kweku Quainoo (Github Name: Kweku Quainoo)
 
 Submission Type:  Assignment - Group Project Prototype
 
