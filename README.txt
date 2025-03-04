@@ -23,19 +23,19 @@ Updated the database
 2025-02-19-10-12-00
 Confirmed the user is in the database
 
-2025-02-19-10-30-00
+2025-02-19-10-30-00 - Olaes, Melgar
 new user was able to log in
 
-2025-02-19-19-50-00
+2025-02-19-19-50-00 - Olaes, Melgar
 Removed the default "Privacy" link from the home page as it will not be used
 
-2025-02-19-19-55-00
+2025-02-19-19-55-00 - Olaes, Melgar
 Added a new item (Razor View - Empty) to be used for the product catalog (Products.cshtml)
 
-2025-02-19-20-00-00
+2025-02-19-20-00-00 - Olaes, Melgar
 Updated Products.cshtml with the correct content to show the products currently available from the CipherBowl website.
 
-2025-02-19-20-15-00
+2025-02-19-20-15-00 - Olaes, Melgar
 Saved the changes then tested the updated home page and made sure the "Product" link once clicked would show the list of products available.
 
 2025-02-19-21-15-00
