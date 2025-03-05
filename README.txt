@@ -1,7 +1,7 @@
-﻿2025-02-19-09-35-00
+﻿2025-02-19-09-35-00 Kweku Quainoo
 Created a new application called CipherBowl
 
-2025-02-19-09-50-00
+2025-02-19-09-50-00 Kweku Quainoo
 Clean and Build solution
      Clean started at 9:50 AM...
 1>------ Clean started: Project: CipherBowl, Configuration: Debug Any CPU ------
@@ -14,13 +14,13 @@ Restored C:\Users\nanak\source\repos\CipherBowl\CipherBowl.csproj (in 238 ms).
 ========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
 ========== Build completed at 9:51 AM and took 02.409 seconds ==========
  
-2025-02-19-09-55-00
+2025-02-19-09-55-00 Kweku Quainoo
 Database issue, couldnt authorise the new registered user
 
-2025-02-19-10-05-00
+2025-02-19-10-05-00 Kweku Quainoo
 Updated the database 
 
-2025-02-19-10-12-00
+2025-02-19-10-12-00 Kweku Quainoo
 Confirmed the user is in the database
 
 2025-02-19-10-30-00 - Olaes, Melgar
@@ -38,14 +38,14 @@ Updated Products.cshtml with the correct content to show the products currently 
 2025-02-19-20-15-00 - Olaes, Melgar
 Saved the changes then tested the updated home page and made sure the "Product" link once clicked would show the list of products available.
 
-2025-02-19-21-15-00
+2025-02-19-21-15-00 Kweku Quainoo
 Pushed to GitHub for collaboration with group mates.
 
-2025-02-20-05-50-00
+2025-02-20-05-50-00 Kweku Quainoo
 Modified product page
 
-2025-02-20-05-55-00
+2025-02-20-05-55-00 Kweku Quainoo
 Pushed to github for collab with teammates
 
-2025-02-26
+2025-02-26 Kweku Quainoo
 0934 Created a new branch Dev2
