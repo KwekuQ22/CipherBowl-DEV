@@ -35,6 +35,9 @@ Added a new item (Razor View - Empty) to be used for the product catalog (Produc
 2025-02-19-20-00-00 - Olaes, Melgar
 Updated Products.cshtml with the correct content to show the products currently available from the CipherBowl website.
 
+2025-02-19-20-00-00 Malitha Balawardhana
+About us page added. Logo added to title.
+
 2025-02-19-20-15-00 - Olaes, Melgar
 Saved the changes then tested the updated home page and made sure the "Product" link once clicked would show the list of products available.
 
@@ -46,6 +49,9 @@ Modified product page
 
 2025-02-20-05-55-00 Kweku Quainoo
 Pushed to github for collab with teammates
+
+2025-02-20-20-00-00 Malitha Balawardhana
+Issue with showing the image/logo. Repushed the images.
 
 2025-02-26 Kweku Quainoo
 0934 Created a new branch Dev2
