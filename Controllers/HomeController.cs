@@ -1,5 +1,6 @@
 using System.Diagnostics;
 using CipherBowl.Models;
+using Microsoft.AspNetCore.Http.Extensions;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CipherBowl.Controllers
@@ -38,5 +39,8 @@ namespace CipherBowl.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+    
+
+  
     }
-}
+    }
